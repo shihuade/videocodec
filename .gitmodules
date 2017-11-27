@@ -1,0 +1,30 @@
+[submodule "x265"]
+	path = x265
+	url = https://github.com/shihuade/x265.git
+[submodule "openHEVC"]
+	path = openHEVC
+	url = https://github.com/shihuade/openHEVC.git
+[submodule "openh264"]
+	path = openh264
+	url = https://github.com/shihuade/openh264.git
+[submodule "x264"]
+	path = x264
+	url = https://github.com/shihuade/x264.git
+[submodule "AOM"]
+	path = AOM
+	url = https://github.com/shihuade/aom.git
+[submodule "HEVC-Reference"]
+	path = HEVC-Reference
+	url = https://github.com/shihuade/HEVC-Reference.git
+[submodule "JM"]
+	path = JM
+	url = https://github.com/shihuade/JM.git
+[submodule "libwebp"]
+	path = libwebp
+	url = https://github.com/shihuade/libwebp.git
+[submodule "x266"]
+	path = x266
+	url = https://github.com/shihuade/x266.git
+[submodule "libvpx"]
+	path = libvpx
+	url = https://github.com/shihuade/libvpx.git
